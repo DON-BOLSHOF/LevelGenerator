@@ -1,0 +1,16 @@
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\bin\Debug\net5.0\LevelGenerator.exe
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\bin\Debug\net5.0\LevelGenerator.deps.json
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\bin\Debug\net5.0\LevelGenerator.runtimeconfig.json
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\bin\Debug\net5.0\LevelGenerator.runtimeconfig.dev.json
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\bin\Debug\net5.0\LevelGenerator.dll
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\bin\Debug\net5.0\ref\LevelGenerator.dll
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\bin\Debug\net5.0\LevelGenerator.pdb
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\obj\Debug\net5.0\LevelGenerator.csproj.AssemblyReference.cache
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\obj\Debug\net5.0\LevelGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\obj\Debug\net5.0\LevelGenerator.AssemblyInfoInputs.cache
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\obj\Debug\net5.0\LevelGenerator.AssemblyInfo.cs
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\obj\Debug\net5.0\LevelGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\obj\Debug\net5.0\LevelGenerator.dll
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\obj\Debug\net5.0\ref\LevelGenerator.dll
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\obj\Debug\net5.0\LevelGenerator.pdb
+C:\Users\Acer\RiderProjects\LevelGenerator\LevelGenerator\obj\Debug\net5.0\LevelGenerator.genruntimeconfig.cache
